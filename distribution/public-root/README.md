@@ -1,5 +1,7 @@
 # Conflu
 
+![Conflu icon](./assets/icon.png)
+
 Conflu is a unified ThingWorx CLI and MCP server for agent-assisted ThingWorx development.
 
 Public distribution:
@@ -56,4 +58,3 @@ conflu mcp configure --print claude
 - MCP tools for agent-assisted ThingWorx authoring and debugging.
 - Optional Kepware MCP tools for simulator and configuration workflows.
 - Built-in agent skill installation for supported coding assistants.
-
